@@ -7,7 +7,7 @@
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 [circleci-url]: https://circleci.com/gh/nestjs/nest
 
-This article will teach you how to install and setup Nest.js with Prisma and GraphQL for creating backend server.
+This article will teach you how to install and setup Nest.js with Prisma and GraphQL for creating backend server. You can also see it from [my blog](https://blog.qu1etboy.dev/posts/nestjs-prisma-graphql) as well.
 
 ## Setup from scratch
 
