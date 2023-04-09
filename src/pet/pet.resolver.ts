@@ -11,7 +11,7 @@ export class PetResolver {
     return this.petService.create(createPetInput);
   }
 
-  @Query('pet')
+  @Query('pets')
   findAll() {
     return this.petService.findAll();
   }
